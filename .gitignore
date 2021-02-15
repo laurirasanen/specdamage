@@ -1,0 +1,5 @@
+.vscode/
+scripting/compiled/
+scripting/include/
+scripting/compile.*
+scripting/spcomp.exe
